@@ -1,4 +1,5 @@
 # javasript
 Javascript Project
 
-City stats tool using Swaith case.........
+1.City stats tool using Switch case.........
+2.Color Flipper
